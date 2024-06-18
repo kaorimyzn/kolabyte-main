@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://kolabyte.vercel.app/
+
+# Sitemaps
+Sitemap: https://kolabyte.vercel.app/sitemap.xml
